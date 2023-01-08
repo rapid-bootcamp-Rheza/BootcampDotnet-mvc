@@ -51,18 +51,18 @@ namespace WebMvc.Controllers
 
         }
 
-        public IActionResult Details(int customerId)
+        public IActionResult Details(int id)
         {
             CustomerViewModel customer = (
                 from p in _customerViewModel
-                where p.CustomerId.Equals(customerId)
+                where p.CustomerId.Equals(id)
                 select p).SingleOrDefault(new CustomerViewModel());
             return View(customer);
         }
 
-        public IActionResult Delete(int? customerId)
+        public IActionResult Delete(int? id)
         {
-            CustomerViewModel customer = _customerViewModel.Find(x => x.CustomerId.Equals(customerId));
+            CustomerViewModel customer = _customerViewModel.Find(x => x.CustomerId.Equals(id));
             _customerViewModel.Remove(customer);
 
             return Redirect("ListCustomer");

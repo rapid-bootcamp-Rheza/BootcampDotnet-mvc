@@ -42,7 +42,7 @@ namespace WebMvc.Controllers
         public IActionResult Update(int employeeId, [Bind("EmployeeId, EmployeeName, Gender, Address, City, Province, Jabatan")] EmployeeViewModel employee)
         {
             //hapus
-            EmployeeViewModel employeeOld = _employeeViewModel.Find(x => x.EmployeeId.Equals(employeeId);
+            EmployeeViewModel employeeOld = _employeeViewModel.Find(x => x.EmployeeId.Equals(employeeId));
             _employeeViewModel.Remove(employeeOld);
 
             //input
@@ -50,7 +50,7 @@ namespace WebMvc.Controllers
             return Redirect("ListEmployee");
 
         }
-        public IActionResult Details(int employeeId)
+        public IActionResult Details(int id)
         {
             // ProductViewModel product = new ProductViewModel(1, "jus mangga", "minuman", 10000);
             //return View(product);
@@ -58,15 +58,15 @@ namespace WebMvc.Controllers
             //find with linq
             EmployeeViewModel employee = (
                 from p in _employeeViewModel
-                where p.EmployeeId.Equals(employeeId)
+                where p.EmployeeId.Equals(id)
                 select p).SingleOrDefault(new EmployeeViewModel());
             return View(employee);
         }
 
-        public IActionResult Delete(int? employeeId)
+        public IActionResult Delete(int? id)
         {
             //find data
-            EmployeeViewModel employee = _employeeViewModel.Find(x => x.EmployeeId.Equals(employeeId));
+            EmployeeViewModel employee = _employeeViewModel.Find(x => x.EmployeeId.Equals(id));
             //remove data
             _employeeViewModel.Remove(employee);
 

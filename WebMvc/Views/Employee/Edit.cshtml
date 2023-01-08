@@ -37,6 +37,8 @@
             <label asp-for="Jabatan">Jabatan</label>
             <input asp-for="Jabatan" class="form-control">
         </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
 
     @section Scripts{
         @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}

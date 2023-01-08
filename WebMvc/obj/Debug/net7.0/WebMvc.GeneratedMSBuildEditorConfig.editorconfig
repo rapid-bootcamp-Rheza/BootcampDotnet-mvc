@@ -52,8 +52,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Employee/ListCustomer.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcTGlzdEN1c3RvbWVyLmNzaHRtbA==
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Employee/ListEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcTGlzdEVtcGxveWVlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Home/AboutUs.cshtml]
@@ -88,24 +88,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/KosKosan/Add.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zS29zYW5cQWRkLmNzaHRtbA==
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Kos/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zXEFkZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/KosKosan/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zS29zYW5cRGV0YWlscy5jc2h0bWw=
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Kos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/KosKosan/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zS29zYW5cRWRpdC5jc2h0bWw=
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Kos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/KosKosan/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zS29zYW5cSW5kZXguY3NodG1s
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Kos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/KosKosan/ListKos.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zS29zYW5cTGlzdEtvcy5jc2h0bWw=
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Kos/ListKos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zXExpc3RLb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Product/Add.cshtml]
@@ -172,8 +172,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Shipper/ListKos.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlclxMaXN0S29zLmNzaHRtbA==
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Shipper/ListShipper.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlclxMaXN0U2hpcHBlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/_ViewImports.cshtml]

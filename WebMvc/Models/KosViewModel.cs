@@ -24,6 +24,9 @@
             Waktu = waktu;
 
         }
-        
+
+        public KosViewModel()
+        {
+        }
     }
 }
