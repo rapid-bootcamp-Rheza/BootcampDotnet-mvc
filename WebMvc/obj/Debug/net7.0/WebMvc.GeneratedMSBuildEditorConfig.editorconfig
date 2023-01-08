@@ -1,0 +1,189 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebMvc
+build_property.RootNamespace = WebMvc
+build_property.ProjectDir = D:\Bootcampjava\BootcampDotnet-mvc\DotnetMvc\WebMvc\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Bootcampjava\BootcampDotnet-mvc\DotnetMvc\WebMvc
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Customer/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Customer/ListCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTGlzdEN1c3RvbWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Employee/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Employee/ListCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcTGlzdEN1c3RvbWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Home/Customer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Home/Employee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbXBsb3llZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Home/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Home/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/KosKosan/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zS29zYW5cQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/KosKosan/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zS29zYW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/KosKosan/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zS29zYW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/KosKosan/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zS29zYW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/KosKosan/ListKos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29zS29zYW5cTGlzdEtvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Product/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/RentalKendaraan/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsS2VuZGFyYWFuXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/RentalKendaraan/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsS2VuZGFyYWFuXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/RentalKendaraan/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsS2VuZGFyYWFuXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/RentalKendaraan/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsS2VuZGFyYWFuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/RentalKendaraan/ListRental.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVudGFsS2VuZGFyYWFuXExpc3RSZW50YWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Shipper/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlclxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Shipper/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Shipper/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Shipper/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Shipper/ListKos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcHBlclxMaXN0S29zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Bootcampjava/BootcampDotnet-mvc/DotnetMvc/WebMvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6wdi0vsvh4

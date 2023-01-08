@@ -1,0 +1,44 @@
+﻿@model EmployeeViewModel
+@{
+    ViewData["Title"] = "Employee  Edit Data";
+}
+
+<div >
+    <h1 >Form Edit Employee</h1>
+    <form asp-action="Update" method="post">
+        <div class="form-group">
+            <label asp-for="EmployeeId">Employee Id</label>
+            <input asp-for="EmployeeId" class="form-control">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="EmployeeName">Employee Name</label>
+            <input asp-for="EmployeeName" class="form-control">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Gender">Gender</label>
+            <input asp-for="Gender" class="form-control">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Address">Address</label>
+            <input asp-for="Address" class="form-control">
+        </div>
+        <div class="form-group">
+            <label asp-for="City">City</label>
+            <input asp-for="City" class="form-control">
+        </div>
+        <div class="form-group">
+            <label asp-for="Province">Province</label>
+            <input asp-for="Province" class="form-control">
+        </div>
+        <div class="form-group">
+            <label asp-for="Jabatan">Jabatan</label>
+            <input asp-for="Jabatan" class="form-control">
+        </div>
+
+    @section Scripts{
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+</div>

@@ -1,0 +1,37 @@
+﻿@model ShipperViewModel
+@{
+    ViewData["Title"] = "Shipper Details";
+}
+
+<div >
+    <h2>Shipper Detail</h2>
+    <table calss = "table tab-content">
+        <tbody>
+            <tr>
+                <th>Shipper ID</th>
+                <td>@Model.Id</td>
+            </tr>
+            <tr>
+                <th>Shipper Name</th>
+                <td>@Model.NameShipper</td>
+            </tr>
+            <tr>
+                <th>Jenis Produk</th>
+                <td>@Model.Production</td>
+            </tr>
+            <tr>
+                <th>Harga per Kilo</th>
+                <td>@Model.PriceShipper</td>
+            </tr>
+            <tr>
+                <th>Region</th>
+                <td>@Model.Region</td>
+            </tr>
+            <tr>
+                <th>Jumlah Cabang</th>
+                <td>@Model.Branch</td>
+            </tr>
+         
+        </tbody>
+    </table>
+</div>

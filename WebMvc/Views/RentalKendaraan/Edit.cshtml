@@ -1,0 +1,43 @@
+﻿@model RentalViewModel
+@{
+    ViewData["Title"] = "Rental  Edit Data";
+}
+
+<div >
+    <h1 >Form Edit Rental</h1>
+    <form asp-action="Update" method="post">
+        <div class="form-group">
+            <label asp-for="Id">Customer Id</label>
+            <input asp-for="Id" class="form-control">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="NamaPenyewa">Customer Name</label>
+            <input asp-for="NamaPenyewa" class="form-control">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Jenis">Jenis Kendaraan</label>
+            <input asp-for="Jenis" class="form-control">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Merk">Merk Kendaraan</label>
+            <input asp-for="Merk" class="form-control">
+        </div>
+        <div class="form-group">
+            <label asp-for="Sewa">Harga Sewa/hari</label>
+            <input asp-for="Sewa" class="form-control">
+        </div>
+        <div class="form-group">
+            <label asp-for="HariSewa">Lama Sewa (hari)</label>
+            <input asp-for="HariSewa" class="form-control">
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+    @section Scripts{
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+</div>

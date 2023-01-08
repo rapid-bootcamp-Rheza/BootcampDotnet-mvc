@@ -1,0 +1,43 @@
+﻿@model ShipperViewModel
+@{
+    ViewData["Title"] = "Shipper Add Data";
+}
+
+<div >
+    <h1 >Form Add Shipper</h1>
+    <form asp-action="Save" method="post">
+        <div class="form-group">
+            <label asp-for="Id">Shipper Id</label>
+            <input asp-for="Id" class="form-control">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="NameShipper">Shipper Name</label>
+            <input asp-for="NameShipper" class="form-control">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Production">Jenis Produk</label>
+            <input asp-for="Production" class="form-control">
+        </div>
+
+        <div class="form-group">
+            <label asp-for="PriceShipper">Harga per Kilo</label>
+            <input asp-for="PriceShipper" class="form-control">
+        </div>
+        <div class="form-group">
+            <label asp-for="Region">Region</label>
+            <input asp-for="Region" class="form-control">
+        </div>
+        <div class="form-group">
+            <label asp-for="Branch">Jumlah Cabang</label>
+            <input asp-for="Branch" class="form-control">
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+    @section Scripts{
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+</div>

@@ -1,0 +1,41 @@
+﻿@model KosViewModel
+@{
+    ViewData["Title"] = "Kos Details";
+}
+
+<div >
+    <h2>Kos Detail</h2>
+    <table calss = "table tab-content">
+        <tbody>
+            <tr>
+                <th>ID</th>
+                <td>@Model.Id</td>
+            </tr>
+            <tr>
+                <th>Nama Penyewa</th>
+                <td>@Model.NamaPenyewa</td>
+            </tr>
+            <tr>
+                <th>Gender</th>
+                <td>@Model.Gender</td>
+            </tr>
+            <tr>
+                <th>Status</th>
+                <td>@Model.Status</td>
+            </tr>
+            <tr>
+                <th>Harga Sewa /Bulan</th>
+                <td>@Model.HargaSewa</td>
+            </tr>
+            <tr>
+                <th>Jenis Kamar</th>
+                <td>@Model.JenisKamar</td>
+            </tr>
+            <tr>
+            <th>Waktu Sewa (Bulan)</th>
+            <td>@Model.Waktu</td>
+            </tr>
+         
+        </tbody>
+    </table>
+</div>

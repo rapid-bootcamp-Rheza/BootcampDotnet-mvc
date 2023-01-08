@@ -1,0 +1,43 @@
+﻿@model List<RentalViewModel>
+@{
+    ViewData["Title"] = "Rental List";
+}
+
+<div >
+    <h2>Rental List</h2>
+    <table class="table table-responsive">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Jenis Kendaraan</th>
+                <th>Merk Kendaraan</th>
+                <th>Harga Sewa/hari</th>
+                <th>Lama Sewa (hari)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.NamaPenyewa</td>
+                    <td>@item.Jenis</td>
+                    <td>@item.Merk</td>
+                    <td>@item.Sewa</td>
+                    <td>@item.HariSewa</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-success">View</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                    </td>
+                </tr>
+               
+            }
+            
+        </tbody>
+        <a asp-action="Add" class="btn btn-sm btn-submit">Add</a>
+      
+
+    </table>
+</div>
